@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Asmae Lahroub👋
 
-<!--
-**LahroubAsmae/LahroubAsmae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I hold a Professional Bachelor's degree in Data Science and a High School Diploma in  Computer Systems Engineering and Software.
+- 💻 I am a junior full-stack web developer and data scientist specializing in technologies such as JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, and Python.
+- 🚀 I am passionate about learning new technologies and contributing to innovative projects.
+- 🌟 My goal is to continuously expand my knowledge and make a positive impact through my work.
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+
+Feel free to reach out if you want to collaborate or discuss interesting tech topics!
