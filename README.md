@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](www.linkedin.com/in/asmae-lahroub-252478238)
 
 
 Feel free to reach out if you want to collaborate or discuss interesting tech topics!
